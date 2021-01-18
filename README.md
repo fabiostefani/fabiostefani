@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fabiostefani.visitor-badge)
-![GitHub followers](https://img.shields.io/github/followers/fabiostefani?style=social)
-
 # 👋 Olá, sou o Fábio! :D
 
 Sou Desenvolvedor Backend, Analista de Sistemas e Lider Técnico na **[Useall Software](https://useall.com.br/)**.
@@ -16,3 +13,6 @@ Curto muito estar em constante busca de conhecimento, mas confesso que não é f
   <img src = "https://github-readme-stats.vercel.app/api?username=fabiostefani&show_icons=true&theme=merko&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabiostefani&hide=css,java,html&theme=merko">
 </p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fabiostefani.visitor-badge)
+![GitHub followers](https://img.shields.io/github/followers/fabiostefani?style=social)
