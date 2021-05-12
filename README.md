@@ -7,7 +7,7 @@ Em 2010 comecei a engatinhar algumas coisas com **[.Dotnet](https://dotnet.micro
 Hoje, mantenho alguns softwares desenvolvidos em PowerBuilder, mas o principal foco está no desenvolvimento Backend com .Net para software de Distribuidoras de Energia Elétrica.
 Curto muito estar em constante busca de conhecimento, mas confesso que não é fácil acompanhar toda essa loucura de inovação que ocorre no mundo de desenvolvimento. Mas bora lá que conseguimos ser cada dia 1% melhor...
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-de-stefani/)](https://www.linkedin.com/in/fabio-de-stefani/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-de-stefani/)](https://www.linkedin.com/in/fabio-de-stefani/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiostefani@gmail.com)](mailto:fabiostefani@gmail.com)
 
 
