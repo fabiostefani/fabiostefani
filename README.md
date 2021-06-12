@@ -47,6 +47,6 @@ Curto muito estar em constante busca de conhecimento, mas confesso que não é f
 ## ⭐ Alguns números do GitHub
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=fabiostefani&show_icons=true&theme=merko&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabiostefani&hide=css,java,html&theme=merko">
+  <img src = "https://github-readme-stats.vercel.app/api?username=fabiostefani&show_icons=true&theme=merko&line_height=27&hide=contribs">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabiostefani&hide=css,java,html&theme=merko">  
 </p>
