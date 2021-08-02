@@ -9,6 +9,8 @@ Curto muito estar em constante busca de conhecimento, mas confesso que não é f
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-de-stefani/)](https://www.linkedin.com/in/fabio-de-stefani/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiostefani@gmail.com)](mailto:fabiostefani@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://fabiostefani.medium.com/)](https://fabiostefani.medium.com/)
+
 
 ## 🚀💻 Tecnologias e Ferramentas
 
