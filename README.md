@@ -52,3 +52,5 @@ Curto muito estar em constante busca de conhecimento, mas confesso que não é f
   <img src = "https://github-readme-stats.vercel.app/api?username=fabiostefani&show_icons=true&theme=merko&line_height=27&hide=contribs">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabiostefani&hide=css,java,html&theme=merko">  
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
